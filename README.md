@@ -16,7 +16,7 @@
 ```javascript
 const forhad = {
     languages: ['C#', 'Python','Java','Php'],
-    backend: ['ASP.NET MVC', 'ASP .NET Core', 'Django ','Java','Php'],
+    backend: ['ASP.NET MVC', 'ASP .NET Core', 'Django'],
     frontend : ['ReactJs', 'jQuery'],
     databases: ['Microsoft SQL Server', 'MySql', 'Oracle'],
     architecture: ['Monolithic','Microservices'],
