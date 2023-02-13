@@ -1,9 +1,18 @@
-<h2> Hi, I'm Forhad Hussain Khan! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+
+<h1 align="center">Hi 👋, I'm Forhad Hussain Khan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+<h3 align="center">A self-taught, passionate and fast-learner full-stack developer from Bangladesh.<br/> Passionately working as a Software Engineer 👨‍🎓.</h3>
 <img align='right' src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="300">
-<p><em>Software Enginner at <a href="https://asa.org.bd/">ASA Bangladesh</a><img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="30"></br>
-</em></p>
+
+- 🔭 Software Enginner at <a href="https://asa.org.bd/">ASA Bangladesh</a>
+
+- 🌱 I’m currently learning **DevOps, Frontend technologies**
+
+- 👯 I’m looking to collaborate on **Any Interesting Project**
+
+- 📫 How to reach me **forhad.mml@gmail.com**
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const forhad = {
     languages: ['C#', 'Python','Java','Php'],
